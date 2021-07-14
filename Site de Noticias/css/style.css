@@ -27,7 +27,7 @@ aside{
   float: left;
   flex: 1.9;
   margin-left: 7%;
-  margin-bottom: 410%;
+  margin-bottom: 5px;
   background-color: #c4f2f8ec;
 }
 
@@ -176,7 +176,7 @@ article {
 
 
 aside li {
-  padding-bottom: 5px;
+  padding-bottom: 1px;
 }
 
 footer {
