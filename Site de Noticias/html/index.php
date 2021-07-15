@@ -14,8 +14,7 @@
 
   <body>
     
-    <?php
-    ?>
+   
 
     <header>
        <h1>Notícias em Foco</h1>
